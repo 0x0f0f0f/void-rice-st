@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "cherry:style=Regular:size=11";
+static char *font = "mono:style=Regular:size=11";
 static int borderpx = 8;
 
 /*
