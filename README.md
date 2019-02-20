@@ -13,8 +13,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 + Alt-PageUp and Alt-PageDown will do the same.
 + Zoom in/out with Alt+Shift+k/j or u/d for larger intervals.
 + Vertcenter
-+ Default solarized colors without `pywal`
-+ updated to latest version 0.8.1
++ Default spirited away colors without `pywal`
 
 The following additional bindings were added before I forked this:
 
